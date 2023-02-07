@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Miguel
-- 👀 I’m interested in everything that is DevOps, Cloud and Programming in general
+- 👀 I’m interested in everything Cloud and Serverless in general
 - 🌱 I’m currently working on some personal projects that hopefully will be able to see the daylight soon
 
 <!---
